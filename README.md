@@ -39,6 +39,8 @@ The `EntityUpdateSequence` class is responsible for updating entities within the
 
 ## Getting Started
 
+[Sevador 666 Client](https://mega.nz/file/kYRxBTYL#QGYzufwAUf_XPz_DkqFwJVlZRIsV8Mz7Irz4yK5KPF4)
+
 ### Prerequisites
 
 - JDK 1.8 or higher
