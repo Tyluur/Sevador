@@ -1,0 +1,1117 @@
+<map>
+  <emote>
+	<!-- Yes emote -->
+	<button_id>0</button_id>
+	<max_ticks>3</max_ticks>
+	<tick value="3">
+	  <anim>855</anim>
+	</tick>
+  </emote>
+   <emote>
+	 <!-- No emote -->
+	 <button_id>1</button_id>
+	 <max_ticks>2</max_ticks>
+	 <tick value="2">
+	   <anim>856</anim>
+	 </tick>
+   </emote>
+  <emote>
+	<!-- Bow emote -->
+	<button_id>2</button_id>
+	<max_ticks>2</max_ticks>
+	<tick value="2">
+	  <anim>858</anim>
+	</tick>
+  </emote>
+   <emote>
+	 <!-- Angry emote -->
+	 <button_id>3</button_id>
+	 <max_ticks>3</max_ticks>
+	 <tick value="3">
+	   <anim>859</anim>
+	 </tick>
+   </emote>
+  <emote>
+	<!-- Think emote -->
+	<button_id>4</button_id>
+	<max_ticks>3</max_ticks>
+	<tick value="3">
+	  <anim>857</anim>
+	</tick>
+  </emote>
+   <emote>
+	 <!-- Wave emote -->
+	 <button_id>5</button_id>
+	 <max_ticks>3</max_ticks>
+	 <tick value="3">
+	   <anim>863</anim>
+	 </tick>
+   </emote>
+  <emote>
+	<!-- Shrug emote -->
+	<button_id>6</button_id>
+	<max_ticks>2</max_ticks>
+	<tick value="2">
+	  <anim>2113</anim>
+	</tick>
+  </emote>
+   <emote>
+	 <!-- Cheer emote -->
+	 <button_id>7</button_id>
+	 <max_ticks>3</max_ticks>
+	 <tick value="3">
+	   <anim>862</anim>
+	 </tick>
+   </emote>
+  <emote>
+	<!-- Beckon emote -->
+	<button_id>8</button_id>
+	<max_ticks>3</max_ticks>
+	<tick value="3">
+	  <anim>864</anim>
+	</tick>
+  </emote>
+   <emote>
+	 <!-- Laugh emote -->
+	 <button_id>9</button_id>
+	 <max_ticks>3</max_ticks>
+	 <tick value="3">
+	   <anim>861</anim>
+	 </tick>
+   </emote>
+   <emote>
+   	<!-- Jump for Joy -->
+	<button_id>10</button_id>
+	<max_ticks>3</max_ticks>
+	<tick value="3">
+		<anim>2109</anim>
+		</tick>
+   	</emote>
+	<emote>
+	 <!-- Yawn emote -->
+	 <button_id>11</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>2111</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Dance emote -->
+	 <button_id>12</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>866</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Jig emote -->
+	 <button_id>13</button_id>
+	 <max_ticks>6</max_ticks>
+	 <tick value="6">
+	   <anim>2106</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Twirl emote -->
+	 <button_id>14</button_id>
+	 <max_ticks>1</max_ticks>
+	 <tick value="1">
+	   <anim>2107</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Headbang emote -->
+	 <button_id>15</button_id>
+	 <max_ticks>6</max_ticks>
+	 <tick value="6">
+	   <anim>2108</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Cry emote -->
+	 <button_id>16</button_id>
+	 <max_ticks>4</max_ticks>
+	 <tick value="4">
+	   <anim>860</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Blowkiss emote -->
+	 <button_id>17</button_id>
+	 <max_ticks>3</max_ticks>
+	 <tick value="3">
+	   <anim>1374</anim>
+	   <gfx>1702</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Panic emote -->
+	 <button_id>18</button_id>
+	 <max_ticks>3</max_ticks>
+	 <tick value="3">
+	   <anim>2105</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Raspberry emote -->
+	 <button_id>19</button_id>
+	 <max_ticks>3</max_ticks>
+	 <tick value="3">
+	   <anim>2110</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Clap emote -->
+	 <button_id>20</button_id>
+	 <max_ticks>5</max_ticks>
+	 <tick value="5">
+	   <anim>865</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Salute emote -->
+	 <button_id>21</button_id>
+	 <max_ticks>2</max_ticks>
+	 <tick value="2">
+	   <anim>2112</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Goblin bow emote -->
+	 <button_id>22</button_id>
+	 <max_ticks>3</max_ticks>
+	 <tick value="3">
+	   <anim>2127</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Goblin salute emote -->
+	 <button_id>23</button_id>
+	 <max_ticks>3</max_ticks>
+	 <tick value="3">
+	   <anim>2128</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Glass box emote -->
+	 <button_id>24</button_id>
+	 <max_ticks>4</max_ticks>
+	 <tick value="4">
+	   <anim>1131</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Climb rope emote -->
+	 <button_id>25</button_id>
+	 <max_ticks>6</max_ticks>
+	 <tick value="6">
+	   <anim>1130</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Lean emote -->
+	 <button_id>26</button_id>
+	 <max_ticks>6</max_ticks>
+	 <tick value="6">
+	   <anim>1129</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Glass wall emote -->
+	 <button_id>27</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>1128</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Idea emote -->
+	 <button_id>28</button_id>
+	 <max_ticks>3</max_ticks>
+	 <tick value="3">
+	   <anim>4275</anim>
+	   <gfx>712</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Stomp emote -->
+	 <button_id>29</button_id>
+	 <max_ticks>2</max_ticks>
+	 <tick value="2">
+	   <anim>4278</anim>
+	   <gfx>713</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Flap emote -->
+	 <button_id>30</button_id>
+	 <max_ticks>3</max_ticks>
+	 <tick value="3">
+	   <anim>4280</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Slap head emote -->
+	 <button_id>31</button_id>
+	 <max_ticks>2</max_ticks>
+	 <tick value="2">
+	   <anim>4276</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Zombie walk emote -->
+	 <button_id>32</button_id>
+	 <max_ticks>13</max_ticks>
+	 <tick value="13">
+	   <anim>3544</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Zombie dance emote -->
+	 <button_id>33</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>3543</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Zombie hand emote -->
+	 <button_id>34</button_id>
+	 <max_ticks>3</max_ticks>
+	 <tick value="3">
+	   <anim>7272</anim>
+	   <gfx>1244</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Scared emote -->
+	 <button_id>35</button_id>
+	 <max_ticks>4</max_ticks>
+	 <tick value="4">
+	   <anim>2836</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Bunny hop emote -->
+	 <button_id>36</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>6111</anim>
+	 </tick>
+   </emote>
+   <emote>
+    <!-- Skillcape emote button -->
+     <button_id>37</button_id>
+	 <req_item_slot>1</req_item_slot>
+	 <!-- TODO: Change to cape item slot. -->
+   </emote>
+   <emote>
+	 <!-- Snowman dance emote -->
+	 <button_id>38</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>7531</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Air guitar emote -->
+	 <button_id>39</button_id>
+	 <max_ticks>7</max_ticks>
+	 <tick value="7">
+	   <anim>2414</anim>
+	   <gfx>1537</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Safety first emote -->
+	 <button_id>40</button_id>
+	 <max_ticks>5</max_ticks>
+	 <tick value="5">
+	   <anim>8770</anim>
+	   <gfx>1553</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Explore emote -->
+	 <button_id>41</button_id>
+	 <max_ticks>10</max_ticks>
+	 <tick value="10">
+	   <anim>9990</anim>
+	   <gfx>1734</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Trick emote -->
+	 <button_id>42</button_id>
+	 <max_ticks>5</max_ticks>
+	 <tick value="5">
+	   <anim>10530</anim>
+	   <gfx>1864</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Freeze emote -->
+	 <button_id>43</button_id>
+	 <max_ticks>6</max_ticks>
+	 <tick value="6">
+	   <anim>11044</anim>
+	   <gfx>1973</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Give thanks emote -->
+	 <button_id>44</button_id>
+	 <max_ticks>19</max_ticks>
+	 <tick value="19">
+	   <anim>10994</anim>
+	 </tick>
+	 <tick value="18">
+	   <gfx>86</gfx>
+	 </tick>
+	 <tick value="17">
+	   <anim>10996</anim>
+	   <set_npc>8499</set_npc>
+	 </tick>
+	 <tick value="5">
+	   <gfx>86</gfx>
+	 </tick>
+	 <tick value="4">
+	 	<anim>10995</anim>
+	 	<set_npc>-1</set_npc>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Around the world in eggty days emote -->
+	 <button_id>45</button_id>
+	 <max_ticks>11</max_ticks>
+	 <tick value="11">
+	   <anim>11542</anim>
+	   <gfx>2037</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Dramatic point emote -->
+	 <button_id>46</button_id>
+	 <max_ticks>5</max_ticks>
+	 <tick value="5">
+	   <anim>12658</anim>
+	   <gfx>780</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Faint emote -->
+	 <button_id>47</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>14165</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Puppet master emote -->
+	 <button_id>48</button_id>
+	 <max_ticks>7</max_ticks>
+	 <tick value="7">
+	   <anim>14869</anim>
+	   <gfx>2837</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Task master emote -->
+	 <button_id>49</button_id>
+	 <max_ticks>16</max_ticks>
+	 <tick value="16">
+	   <anim>15034</anim>
+	   <gfx>2930</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Seal of approval emote -->
+	 <button_id>50</button_id>
+	 <max_ticks>9</max_ticks>
+	 <tick value="9">
+	   <anim>15104</anim>
+	   <gfx>1287</gfx>
+	 </tick>
+	 <tick value="7">
+	   <anim>15106</anim>
+	   <set_npc>13255</set_npc>
+	 </tick>
+	 <tick value="5">
+	   <anim>15108</anim>
+	 </tick>
+	 <tick value="2">
+	   <anim>15105</anim>
+	   <gfx>1287</gfx>
+	   <set_npc>-1</set_npc>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Cat fight emote -->
+	 <button_id>51</button_id>
+	 <max_ticks>5</max_ticks>
+	 <tick value="5">
+	   <anim>2252</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Talk to the hand emote -->
+	 <button_id>52</button_id>
+	 <max_ticks>5</max_ticks>
+	 <tick value="5">
+	   <anim>2416</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Shake hands emote -->
+	 <button_id>53</button_id>
+	 <max_ticks>5</max_ticks>
+	 <tick value="5">
+	   <anim>2303</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- High five emote -->
+	 <button_id>54</button_id>
+	 <max_ticks>5</max_ticks>
+	 <tick value="5">
+	   <anim>2312</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Facepalm emote -->
+	 <button_id>55</button_id>
+	 <max_ticks>5</max_ticks>
+	 <tick value="5">
+	   <anim>2254</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Surrender emote -->
+	 <button_id>56</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>2360</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Levitate emote -->
+	 <button_id>57</button_id>
+	 <max_ticks>10</max_ticks>
+	 <tick value="10">
+	   <anim>2327</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Muscle man pose emote -->
+	 <button_id>58</button_id>
+	 <max_ticks>13</max_ticks>
+	 <tick value="13">
+	   <anim>2566</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- ROFL emote -->
+	 <button_id>59</button_id>
+	 <max_ticks>11</max_ticks>
+	 <tick value="11">
+	   <anim>2347</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Breath fire emote -->
+	 <button_id>60</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>2328</anim>
+	   <gfx>358</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Storm emote -->
+	 <button_id>61</button_id>
+	 <max_ticks>9</max_ticks>
+	 <tick value="9">
+	   <anim>2563</anim>
+	   <gfx>365</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Snow emote -->
+	 <button_id>62</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>2417</anim>
+	   <gfx>364</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Invoke spring emote -->
+	 <button_id>63</button_id>
+	 <max_ticks>20</max_ticks>
+	 <tick value="20">
+	   <anim>15357</anim>
+	   <gfx>1391</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Head in the sand emote -->
+	 <button_id>64</button_id>
+	 <max_ticks>16</max_ticks>
+	 <tick value="16">
+	   <anim>12926</anim>
+	   <gfx>1761</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Hula-hoop emote -->
+	 <button_id>65</button_id>
+	 <max_ticks>25</max_ticks>
+	 <tick value="25">
+	   <anim>12928</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Disappear emote -->
+	 <button_id>66</button_id>
+	 <max_ticks>10</max_ticks>
+	 <tick value="10">
+	   <anim>12929</anim>
+	   <gfx>1760</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Ghost emote -->
+	 <button_id>67</button_id>
+	 <max_ticks>19</max_ticks>
+	 <tick value="19">
+	   <anim>12932</anim>
+	   <gfx>1762</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Bring it emote -->
+	 <button_id>68</button_id>
+	 <max_ticks>4</max_ticks>
+	 <tick value="4">
+	   <anim>12934</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Palm-fist emote -->
+	 <button_id>69</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>12931</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Kneel emote -->
+	 <button_id>70</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>12914</anim>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Attack cape emote -->
+	 <button_id>9980965</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>4959</anim>
+	   <gfx>823</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Attack cape (t) emote -->
+	 <button_id>9981989</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>4959</anim>
+	   <gfx>823</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Strength cape emote -->
+	 <button_id>9984037</button_id>
+	 <max_ticks>22</max_ticks>
+	 <tick value="22">
+	   <anim>4981</anim>
+	   <gfx>828</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Strength cape (t) emote -->
+	 <button_id>9985061</button_id>
+	 <max_ticks>22</max_ticks>
+	 <tick value="22">
+	   <anim>4981</anim>
+	   <gfx>828</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Defence cape emote -->
+	 <button_id>9987109</button_id>
+	 <max_ticks>9</max_ticks>
+	 <tick value="9">
+	   <anim>4961</anim>
+	   <gfx>824</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Defence cape (t) emote -->
+	 <button_id>9988133</button_id>
+	 <max_ticks>9</max_ticks>
+	 <tick value="9">
+	   <anim>4961</anim>
+	   <gfx>824</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Constitution cape emote -->
+	 <button_id>10002469</button_id>
+	 <max_ticks>15</max_ticks>
+	 <tick value="15">
+	   <anim>14242</anim>
+	   <gfx>2745</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Constitution cape (t) emote -->
+	 <button_id>10003493</button_id>
+	 <max_ticks>15</max_ticks>
+	 <tick value="15">
+	   <anim>14242</anim>
+	   <gfx>2745</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Ranged cape emote -->
+	 <button_id>9990181</button_id>
+	 <max_ticks>12</max_ticks>
+	 <tick value="12">
+	   <anim>4973</anim>
+	   <gfx>832</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Ranged cape (t) emote -->
+	 <button_id>9991205</button_id>
+	 <max_ticks>12</max_ticks>
+	 <tick value="12">
+	   <anim>4973</anim>
+	   <gfx>832</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Magic cape emote -->
+	 <button_id>9996325</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>4939</anim>
+	   <gfx>813</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Magic cape (t) emote -->
+	 <button_id>9997349</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>4939</anim>
+	   <gfx>813</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Prayer cape emote -->
+	 <button_id>9993253</button_id>
+	 <max_ticks>13</max_ticks>
+	 <tick value="13">
+	   <anim>4979</anim>
+	   <gfx>829</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Prayer cape (t) emote -->
+	 <button_id>9994277</button_id>
+	 <max_ticks>13</max_ticks>
+	 <tick value="13">
+	   <anim>4979</anim>
+	   <gfx>829</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Cooking cape emote -->
+	 <button_id>10036261</button_id>
+	 <max_ticks>31</max_ticks>
+	 <tick value="31">
+	   <anim>4955</anim>
+	   <gfx>821</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Cooking cape (t) emote -->
+	 <button_id>10037285</button_id>
+	 <max_ticks>31</max_ticks>
+	 <tick value="31">
+	   <anim>4955</anim>
+	   <gfx>821</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Woodcutting cape emote -->
+	 <button_id>10042405</button_id>
+	 <max_ticks>23</max_ticks>
+	 <tick value="23">
+	   <anim>4957</anim>
+	   <gfx>822</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Woodcutting cape (t) emote -->
+	 <button_id>10043429</button_id>
+	 <max_ticks>23</max_ticks>
+	 <tick value="23">
+	   <anim>4957</anim>
+	   <gfx>822</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Fletching cape emote -->
+	 <button_id>10017829</button_id>
+	 <max_ticks>17</max_ticks>
+	 <tick value="17">
+	   <anim>4937</anim>
+	   <gfx>812</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Fletching cape (t) emote -->
+	 <button_id>10018853</button_id>
+	 <max_ticks>17</max_ticks>
+	 <tick value="17">
+	   <anim>4937</anim>
+	   <gfx>812</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Fishing cape emote -->
+	 <button_id>10033189</button_id>
+	 <max_ticks>15</max_ticks>
+	 <tick value="15">
+	   <anim>4951</anim>
+	   <gfx>819</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Fishing cape (t) emote -->
+	 <button_id>10034213</button_id>
+	 <max_ticks>15</max_ticks>
+	 <tick value="15">
+	   <anim>4951</anim>
+	   <gfx>819</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Firemaking cape emote -->
+	 <button_id>10039333</button_id>
+	 <max_ticks>10</max_ticks>
+	 <tick value="10">
+	   <anim>4975</anim>
+	   <gfx>831</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Firemaking cape (t) emote -->
+	 <button_id>10040357</button_id>
+	 <max_ticks>10</max_ticks>
+	 <tick value="10">
+	   <anim>4975</anim>
+	   <gfx>831</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Crafting cape emote -->
+	 <button_id>10014757</button_id>
+	 <max_ticks>13</max_ticks>
+	 <tick value="13">
+	   <anim>4949</anim>
+	   <gfx>818</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Crafting cape (t) emote -->
+	 <button_id>10015781</button_id>
+	 <max_ticks>13</max_ticks>
+	 <tick value="13">
+	   <anim>4949</anim>
+	   <gfx>818</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Smithing cape emote -->
+	 <button_id>10030117</button_id>
+	 <max_ticks>21</max_ticks>
+	 <tick value="21">
+	   <anim>4943</anim>
+	   <gfx>815</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Smithing cape (t) emote -->
+	 <button_id>10031141</button_id>
+	 <max_ticks>21</max_ticks>
+	 <tick value="21">
+	   <anim>4943</anim>
+	   <gfx>815</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Mining cape emote -->
+	 <button_id>10027045</button_id>
+	 <max_ticks>6</max_ticks>
+	 <tick value="6">
+	   <anim>4941</anim>
+	   <gfx>814</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Mining cape (t) emote -->
+	 <button_id>10028069</button_id>
+	 <max_ticks>6</max_ticks>
+	 <tick value="6">
+	   <anim>4941</anim>
+	   <gfx>814</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Herblore cape emote -->
+	 <button_id>10008613</button_id>
+	 <max_ticks>16</max_ticks>
+	 <tick value="16">
+	   <anim>4969</anim>
+	   <gfx>835</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Herblore cape (t) emote -->
+	 <button_id>10009637</button_id>
+	 <max_ticks>16</max_ticks>
+	 <tick value="16">
+	   <anim>4969</anim>
+	   <gfx>835</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Agility cape emote -->
+	 <button_id>10005541</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>4977</anim>
+	   <gfx>830</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Agility cape (t) emote -->
+	 <button_id>10006565</button_id>
+	 <max_ticks>8</max_ticks>
+	 <tick value="8">
+	   <anim>4977</anim>
+	   <gfx>830</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Thieving cape emote -->
+	 <button_id>10011685</button_id>
+	 <max_ticks>16</max_ticks>
+	 <tick value="16">
+	   <anim>4965</anim>
+	   <gfx>826</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Thieving cape (t) emote -->
+	 <button_id>10012709</button_id>
+	 <max_ticks>16</max_ticks>
+	 <tick value="16">
+	   <anim>4965</anim>
+	   <gfx>826</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Slayer cape emote -->
+	 <button_id>10020901</button_id>
+	 <max_ticks>10</max_ticks>
+	 <tick value="10">
+	   <anim>4967</anim>
+	   <gfx>1656</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Slayer cape (t) emote -->
+	 <button_id>10021925</button_id>
+	 <max_ticks>10</max_ticks>
+	 <tick value="10">
+	   <anim>4967</anim>
+	   <gfx>1656</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Farming cape emote -->
+	 <button_id>10045477</button_id>
+	 <max_ticks>15</max_ticks>
+	 <tick value="15">
+	   <anim>4963</anim>
+	   <gfx>825</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Farming cape (t) emote -->
+	 <button_id>10046501</button_id>
+	 <max_ticks>15</max_ticks>
+	 <tick value="15">
+	   <anim>4963</anim>
+	   <gfx>825</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Runecrafting cape emote -->
+	 <button_id>9999397</button_id>
+	 <max_ticks>13</max_ticks>
+	 <tick value="13">
+	   <anim>4947</anim>
+	   <gfx>817</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Runecrafting cape (t) emote -->
+	 <button_id>10000421</button_id>
+	 <max_ticks>13</max_ticks>
+	 <tick value="13">
+	   <anim>4947</anim>
+	   <gfx>817</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Construction cape emote -->
+	 <button_id>10023973</button_id>
+	 <max_ticks>14</max_ticks>
+	 <tick value="14">
+	   <anim>4953</anim>
+	   <gfx>820</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Construction cape (t) emote -->
+	 <button_id>10024997</button_id>
+	 <max_ticks>14</max_ticks>
+	 <tick value="14">
+	   <anim>4953</anim>
+	   <gfx>820</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Summoning cape emote -->
+	 <button_id>12461093</button_id>
+	 <max_ticks>10</max_ticks>
+	 <tick value="10">
+	   <anim>8525</anim>
+	   <gfx>1515</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Summoning cape (t) emote -->
+	 <button_id>12462117</button_id>
+	 <max_ticks>10</max_ticks>
+	 <tick value="10">
+	   <anim>8525</anim>
+	   <gfx>1515</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Quest cape emote -->
+	 <button_id>10048549</button_id>
+	 <max_ticks>16</max_ticks>
+	 <tick value="16">
+	   <anim>4945</anim>
+	   <gfx>816</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Quest cape (t) emote -->
+	 <button_id>10917925</button_id>
+	 <max_ticks>16</max_ticks>
+	 <tick value="16">
+	   <anim>4945</anim>
+	   <gfx>816</gfx>
+	 </tick>
+   </emote>
+   <emote>
+	 <!-- Dungeoneering cape (t) emote -->
+     <button_id>18952229</button_id>
+	 <max_ticks>7</max_ticks>
+	 <tick value="7">
+	   <anim>13190</anim>
+	   <gfx>2440</gfx>
+	 </tick>
+	 <tick value="6">
+	   <set_npc>11277</set_npc>
+	   <anim>13192</anim>
+	 </tick>
+	 <tick value="1">
+	   <set_npc>-1</set_npc>
+	 </tick>
+   </emote>
+  <emote>
+  	<!-- Veteran cape -->
+  	<button_id>21261349</button_id>
+	 <max_ticks>11</max_ticks>
+	 <tick value="11">
+	   <anim>352</anim>
+	   <gfx>1446</gfx>
+	 </tick>
+  </emote>
+  <emote>
+  	<!-- Classic cape -->
+  	<button_id>21263397</button_id>
+	 <max_ticks>7</max_ticks>
+	 <tick value="7">
+	   <anim>122</anim>
+	   <gfx>1471</gfx>
+	 </tick>
+  </emote>
+  <emote>
+    <!-- Completionist emote -->
+	<button_id>21267493</button_id>	<!-- Hash: buttonId (37) | (capeId(20769) << 10) -->
+	<max_ticks>20</max_ticks>
+	<tick value="20">
+	  <anim>356</anim>
+	  <gfx>307</gfx>
+	 </tick>
+	<tick value="16">
+	  <set_npc>1830</set_npc>
+	  <gfx>1443</gfx>
+	  <anim>1174</anim>
+	 </tick>
+	<tick value="4">
+	  <set_npc>-1</set_npc>
+	  <anim>1175</anim>
+	 </tick>
+  </emote>
+  <emote>
+    <!-- Completionist (t) emote -->
+	<button_id>21269541</button_id>
+	<max_ticks>20</max_ticks>
+	<tick value="20">
+	  <anim>356</anim>
+	  <gfx>307</gfx>
+	 </tick>
+	<tick value="16">
+	  <set_npc>3372</set_npc>
+	  <gfx>1443</gfx>
+	  <anim>1174</anim>
+	 </tick>
+	<tick value="4">
+	  <set_npc>-1</set_npc>
+	  <anim>1175</anim>
+	 </tick>
+  </emote>
+</map>

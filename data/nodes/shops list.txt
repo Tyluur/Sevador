@@ -1,0 +1,296 @@
+shop [0, Zealusion's Melee Store]
+item [10828, inf]//helm of neitiznot
+item [1725, inf] //amulet of strength
+item [1127, inf] //rune platebody
+item [1079, inf] //rune platelegs
+item [11732, inf] //dragon boots
+item [6737, inf] //berserker ring
+item [6585, inf] //amulet of fury
+item [10551, inf] //fighter torso
+item [11724, inf] //bandos chestplate
+item [11726, inf] //bandos tassets
+item [21787, inf] //steadfast boots
+item [20072, inf] //dragon defender
+item [11283, inf] //dragonfire shield
+item [4716, inf] //dharok's helm
+item [4720, inf] //dharok's platebody
+item [4722, inf] //dharok's platelegs
+item [4718, inf] //dharok's greataxe
+item [4753, inf] //verac's helm
+item [4757, inf] //verac's brassard
+item [4759, inf] //verac's plateskirt
+item [4755, inf] //verac's flail
+item [4745, inf] //torag's helm
+item [4749, inf] //torag's platebody
+item [4751, inf] //torag's platelegs
+item [4724, inf] //guthan's helm
+item [4728, inf] //guthan's platebody
+item [4730, inf] //guthan's chainskirt
+item [4087, inf] //dragon platelegs
+item [4151, inf] //abyssal whip
+item [21371, inf] //abyssal vine whip
+item [4153, inf[ //granite maul
+item [5698, inf] //dragon dagger (p++)
+item [1434, inf] //dragon mace
+item [1305, inf] //dragon longsword
+item [4587, inf] //dragon scimitar
+item [19780, inf] //korasi
+item [11730, inf] //saradomin sword
+item [11694, inf] //armadyl godsword
+item [11696, inf] //bandos godsword
+item [11700, inf] //zamorak godsword
+item [11698, inf] //saradomin godsword
+
+shop [1, Zealusion's Range Store]
+item [3749, inf] //archer helm
+item [2503, inf] //black d'hide body
+item [2497, inf] //black d'hide chaps
+item [6328, inf] //snakeskin boots
+item [21790, inf] //glaiven boots
+item [4732, inf] //karil's coif
+item [4736, inf] //karil's top
+item [4738, inf] //karil's skirt
+item [4734, inf] //karil's crossbow
+item [4740, inf] //bolt rack
+item [11718, inf] //armadyl helmet
+item [11720, inf] //armadyl chestplate
+item [11722, inf] //armadyl chainskirt
+item [10499, inf] //Ava's accumulator
+item [15126, inf] //amulet of ranging
+item [2581, inf] //robin hood hat
+item [2577, inf] //ranger boots
+item [6733, inf] //archers' ring
+item [13744, inf] //spectral spirit shield
+item [861, inf] //magic shortbow
+item [11235, inf] //dark bow
+item [892, inf] //rune arrow
+item [11212, inf] //dragon arrow
+item [9185, inf] //rune crossbow
+item [9244, inf] //dragon bolts (e)
+item [9243, inf] //diamond bolts (e)
+item [9245, inf] //onyx bolts (e)
+item [15241, inf] //hand cannon
+item [15243, inf] //hand cannon shot
+item [11230, inf] //oDragon darts
+
+shop [2, Zealusion's Magic Store]
+item [4708, inf] //ahrim's hood
+item [4712, inf] //ahrim's robe top
+item [4714, inf] //ahrim's robe skirt
+item [4710, inf] //ahrim's staff
+item [3755, inf] //farseer helm
+item [4091, inf] //mystic robe top
+item [4093, inf] //mystic robe bottom
+item [4097, inf] //mystic boots
+item [6918, inf] //infinity hat
+item [6916, inf] //infinity top
+item [6924, inf] //infinity bottoms
+item [6922, inf] //infinity gloves
+item [6920, inf] //infinity boots
+item [21793, inf] //ragefire boots
+item [15486, inf] //staff of light
+item [6914, inf] //master wand
+item [13738, inf] //arcane spirit shield
+item [6889, inf] //mages' book
+item [3842, inf] //unholy book
+item [560, inf] //death rune
+item [565, inf] //blood rune
+item [9075, inf] //astral rune
+item [566, inf] //soul rune
+item [555, inf] //water rune
+item [557, inf] //earth rune
+item [556, inf] //air rune
+item [554, inf] //fire rune
+item [2413, inf] //guthix cape
+item [2416, inf] //guthix staff
+item [2414, inf] //zamorak cape
+item [2417, inf] //zamorak staff
+item [2412, inf] //saradomin cape
+item [2415, inf] //saradomin staff
+item [6731, inf] //seers' ring
+item [18335, inf] //arcane stream necklace
+item [18346, inf] //tome of frost
+
+
+shop [3, Potions and Food]
+item [2436, inf] //super attack
+item [2440, inf] //super strength
+item [2442, inf] //super defence
+item [2444, inf] //ranging potion
+item [3040, inf] //magic potion
+item [15308, inf] //extreme attack
+item [15312, inf] //extreme strength
+item [15316, inf] //extreme defence
+item [15324, inf] //extreme ranging
+item [15320, inf] //extreme magic
+item [15332, inf] //overload
+item [6685, inf] //saradomin brew
+item [3024, inf] //super restore
+item [2434, inf] //prayer potion
+item [15328, inf] //super prayer
+item [385, inf] //shark
+item [15272, inf] //rocktail
+item [19949, inf] //juju gumbo
+item [391, inf] //manta ray
+item [397, inf] //sea turtle
+
+shop [4, Zealusion's Donator Store]
+item [13740, inf] //divine spirit shield
+item [13742, inf] //elysian spirit shield
+item [18349, inf] //chaotic rapier
+item [18353, inf] //chaotic maul
+item [18355, inf] //chaotic staff
+item [18351, inf] //chaotic longsword
+item [18357, inf] //chaotic crossbow
+item [20135, inf] //torva full helm
+item [20139, inf] //torva platebody
+item [20143, inf] //torva platelegs
+item [20159, inf] //virtus mask
+item [20163, inf] //virtus robe top
+item [20167, inf] //virtus robe legs
+item [20147, inf] //pernix cowl
+item [20151, inf] //pernix body
+item [20155, inf] //pernix chaps
+item [21777, inf] //armadyl battlestaff
+item [21773, inf] //armadyl rune
+item [13899, inf] //vesta's longsword
+item [13905, inf] //vesta's spear
+item [13887, inf] //vesta's chainbody
+item [13893, inf] //vesta's plateskirt
+item [13896, inf] //statius's full helm
+item [13884, inf] //statius's platebody
+item [13890, inf] //statius's platelegs
+item [13902, inf] //statius's warhammer
+item [13864, inf] //Zuriel's hood
+item [13858, inf] //zuriel's robe top
+item [13861, inf] //zuriel's robe bottom
+item [13867, inf] //zuriel's staff
+item [13876, inf] //morrigan's coif
+item [13870, inf] //morrigan's leather body
+item [13873, inf] //morrigan's leather chaps
+item [13879, inf] //morrigan's javelin
+item [13883, inf] //morrigan's throwing axe
+item [15220, inf] //berserker ring (i)
+item [15018, inf] //seers' ring (i)
+item [15020, inf] //warrior ring (i)
+item [15019, inf] //archers' ring (i)
+item [15017, inf] //onyx ring (i)
+item [15013, inf] //diamond ring (i)
+
+shop [5, Zealusion's Admin Store]
+item [15924, inf] //primal full helm
+item [16023, inf] //primal platebody
+item [15935, inf] //primal platelegs
+item [16137, inf] //primal 2h
+item [16045, inf] //primal rapier
+item [16184, inf] //primal maul
+item [15818, inf] //primal kiteshield
+item [15946, inf] //primal gauntlets
+item [16272, inf] //primal boots
+item [16056, inf] //sagittarian coif
+item [16078, inf] //sagittarian body
+item [16067, inf] //sagittarian chaps
+item [16115, inf] //sagittarian vambraces
+item [16012, inf] //sagittarian boots
+item [15913, inf] //sagittarian longbow
+item [15785, inf] //sagittarian shortbow
+item [15957, inf] //sagittarian arrows
+item [15836, inf] //hexhunter bow
+item [15902, inf] //celestial hood
+item [15847, inf] //celestial robe top
+item [15807, inf] //celestial robe bottom
+item [16195, inf] //celestial gloves
+item [15796, inf] //celestial shoes
+item [16173, inf] //celestial catalytic staff
+item [11946, Owner Brid] //Skeletal armour set
+
+shop [6, Zealusion's Voting Store]
+item [20957, inf] //oddball
+item [20958, inf] //poison purge
+item [20959, inf] //jack of trades
+item [20961, inf] //knock-out
+item [20962, inf] //runic accuracy
+item [20963, inf] //friend in need
+item [20964, inf] //surefooted
+item [20965, inf] //reverence
+item [20966, inf] //call of the sea
+item [20967, inf] //sharpshooter
+
+shop [7, PK Package Store]
+item [11814, Pure set] //Bronze armour set (lg) 
+item [11864, Welfare range-melee set] //Green dragonhide set 
+item [11846, Hybrid set] //Barrows - ahrim's set   
+item [11816, Pure melee set] //Bronze armour set (sk)  
+item [11854, Melee set] //Item Barrows - Torag's set
+item [11848, Dharok pking set] //Item Barrows - Dharok's set
+item [11852, Range tank set] //Barrows - karil's set
+item [11872, Welfare brid] //Mystic robes set
+item [11916, Void Hybrid] //Blue d'hide trimmed set
+item [11838, Zerk set] //Rune armour set (lg)
+
+shop [8, Donator Shop]
+item [10551, inf]
+item [22302, inf]
+item [18349, inf]
+item [18351, inf]
+item [18353, inf]
+item [18355, inf]
+
+shop [9, Chef's Glove Emporium]
+item [7454, inf]
+item [7455, inf]
+item [7456, inf]
+item [7457, inf]
+item [7458, inf]
+item [7459, inf]
+item [7460, inf]
+item [7461, inf]
+item [7462, inf]
+
+shop [10, Skillcape Shop]
+item [9749, inf]
+item [9748, inf]
+item [9752, inf]
+item [9751, inf]
+item [9755, inf]
+item [9754, inf]
+item [9758, inf]
+item [9757, inf]
+item [9764, inf]
+item [9763, inf]
+item [9761, inf]
+item [9760, inf]
+item [9767, inf]
+item [9766, inf]
+item [9794, inf]
+item [9793, inf]
+item [9797, inf]
+item [9796, inf]
+item [9770, inf]
+item [9769, inf]
+item [9788, inf]
+item [9787, inf]
+item [9806, inf]
+item [9805, inf]
+item [9809, inf]
+item [9808, inf]
+item [9800, inf]
+item [9799, inf]
+item [9803, inf]
+item [9802, inf]
+item [9812, inf]
+item [9811, inf]
+item [9785, inf]
+item [9784, inf]
+item [9779, inf]
+item [9778, inf]
+item [9950, inf]
+item [9949, inf]
+item [9776, inf]
+item [9775, inf]
+item [9773, inf]
+item [9772, inf]
+item [9782, inf]
+item [9781, inf]
+item [12171, inf]
+item [12170, inf]

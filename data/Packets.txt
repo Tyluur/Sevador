@@ -1,0 +1,59 @@
+60+ Packets - 02-18-2012, 03:23 AM 
+
+--------------------------------------------------------------------------------
+
+These are packets for revision 666.
+
+In:
+
+Code:
+Action Button - 85, 7, 66, 11, 17, 48, 84, 54
+Command (Developer Console Input) - 12
+Walk Packet (Minimap) - 56
+Walk Packet (Screen) - 53
+Window Switch - 34
+Player Chat - 19
+Item on Item - 26
+Mouse Click - 36
+Item Switch - 71
+Grand Exchange Search - 67
+Dialogue Paclet - 8
+Integer Input - 15
+String Input - 59
+Long String Input - 82
+Mouse Motion - 88
+Player Option - 43, 44, 90, 83, 47, 91, 72, 4
+NPC Option - 70, 69, 10, 29, 61, 27
+Object Option - 45, 49, 16, 23, 24, 28
+Out:
+
+Code:
+NPC Update - 6
+Player Update - 112
+System Update - 10
+Send Window - 100
+Play Sound (Index 2) - 89
+Play Sound (Index 1) - 72
+Play Music - 52
+Interface String Packet - 69
+Skill Packet - 8
+Open Interface - 139
+Close Interface - 29
+Send Map Region - 19
+Send Items - 122
+Send Projectile - 27
+Spawn Object - 20
+Access Mask - 42
+Animate Object - 9
+Send Run Energy - 18
+Remove Object - 110
+Remove Ground Item - 46
+Build Player Option - 144
+Send Game Message - 98
+Logout Lobby - 59 
+Logout Login Screen - 126
+Interface Config - 102
+Grand Exchange Packet - 7
+CS2 String - 52
+CS2 Script - 38
+Animate Interface - 131You're welcome  

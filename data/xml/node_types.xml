@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map>
+  <node type="game_object">
+	<id>61</id>
+	<type>PRAYER_ALTAR</type>
+  </node>
+  <!-- Bank booths -->
+   <node type="game_object">
+     <id>782</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>2213</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>3045</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>5276</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>6084</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>10517</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>11338</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>11758</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>12798</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>12799</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>12800</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>12801</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>14369</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>14370</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>16700</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>19230</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>20323</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>20324</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>20325</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>20326</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>20327</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>20328</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>20329</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>20330</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>22819</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>24914</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>25808</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>26972</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>29085</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>34205</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>34752</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>35647</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>35648</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>36262</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>36786</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>37474</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>49018</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>49019</id>
+	<type>BANK_BOOTH</type>
+  </node>
+   <node type="game_object">
+     <id>52397</id>
+     <type>BANK_BOOTH</type>
+   </node>
+  <node type="game_object">
+	<id>52589</id>
+	<type>BANK_BOOTH</type>
+  </node>
+  <node type="npc">
+    <id>1158</id>
+    <type>KALPHITE</type>
+  </node>
+</map>
