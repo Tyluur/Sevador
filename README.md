@@ -25,6 +25,23 @@ Sevador-666 is a custom RuneScape game server built for RuneScape build 666. It 
 - **Player Management**: Manages player instances within the game world.
 - **Drop Loader**: Handles item drop loading.
 
+### Action Management
+
+- **Action Registration**: Register actions to be executed or queued.
+- **Action Execution**: Execute actions based on their flags and constraints.
+- **Action Queuing**: Queue actions for later execution.
+- **Action Resetting**: Reset actions based on specific flags.
+- **Error Handling**: Robust error handling to ensure smooth gameplay.
+
+### Activity Management
+
+- **Global Activities**: Maintain a list of global activities available in the game.
+- **Active Activities**: Track and manage currently active activities.
+- **Activity Registration**: Register activities to be available globally.
+- **Activity Starting**: Start activities based on constraints.
+- **Activity Ticking**: Handle the ticking of both idle and active activities.
+- **Pest Control Mini-Game**: Includes different levels of Pest Control activities (Easy, Medium, Hard).
+
 ### Major Update Worker
 
 The `MajorUpdateWorker` class is responsible for handling major updates within the game. It runs on a separate thread with maximum priority and keeps track of the number of cycle ticks.
@@ -51,9 +68,10 @@ The `EntityUpdateSequence` class is responsible for updating entities within the
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory and run the Gradle build command:
-   \`\`\`
-   gradle build
-   \`\`\`
+    ```sh
+    gradle build
+    ```
+
 3. Start the server by running the main class `com.sevador.Main`.
 
 ## Contributing
