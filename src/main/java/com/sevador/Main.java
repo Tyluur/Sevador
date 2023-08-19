@@ -18,16 +18,16 @@ import com.sevador.utility.ServerLogger;
 
 /**
  * Helper class destinated to Start the Server.
- * 
+ *
  * @author Tyluur
- * 
+ *
  */
 public class Main {
 
 	/**
 	 * The cached thread pool executor instance.
-	 * 
-	 * @see Executors#newFixedThreadPool()
+	 *
+	 * @see Executors#newFixedThreadPool(int) ()
 	 */
 	private static final ExecutorService EXECUTOR_SERVICE = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors());
 
@@ -60,10 +60,10 @@ public class Main {
 	/**
 	 * The Default Virtual Machine Running method,
 	 * Also initiate all the Managers.
-	 * 
+	 *
 	 * @param args
 	 *            Program arguments.
-	 * @throws IOException 
+	 * @throws IOException
 	 */
 	public static void main(String[] args) throws IOException {
 		//System.setOut(new ServerLogger(System.out));
@@ -85,7 +85,7 @@ public class Main {
 
 	/**
 	 * Gets the {@code NodeWorker} instance used.
-	 * 
+	 *
 	 * @return The nodeWorker.
 	 */
 	public synchronized static NodeWorker getNodeWorker() {
@@ -94,7 +94,7 @@ public class Main {
 
 	/**
 	 * Gets the working set for threads.
-	 * 
+	 *
 	 * @return The working set for threads.
 	 */
 	public synchronized static ThreadWorkingSet getWorkingSet() {
